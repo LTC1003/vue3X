@@ -8,7 +8,7 @@
     "lint": "eslint --fix --ext .js,.vue src"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-loader": "^8.1.0",
     "core-js": "^3.4.3",
     "element-china-area-data": "^5.0.1",
